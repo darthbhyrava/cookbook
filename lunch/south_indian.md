@@ -47,8 +47,7 @@ _Tadka_
 - Add cumin seeds, curry leaves
 - Once it's crackling, add red chilli powder and stir
 
-- Add tadka to dal and stir
-- Serve with rice or roti
+Add tadka to dal and stir, then serve with rice or roti.
 
 
 ***
