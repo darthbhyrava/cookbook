@@ -1,8 +1,10 @@
-## Sambar
+### Sambar
 
+Using tuvar dal and sambar masala
 
+***
 
-## Aloo Fry
+### Potato Stir Fry
 __Parameters__
 - 2 large potatoes, cubed
 - 1 tbsp sunflower oil
@@ -15,7 +17,7 @@ __Parameters__
 - 1/2 tbsp garam masala powder
 
 __Preprocessing__
-Peel potatoes before cubing them and storing them in water. Rinse curry leaves.
+- Peel potatoes before cubing them and storing them in water. Rinse curry leaves.
 
 __Cooking__
 - Pour oil in a heavy bottom non-stick cast iron pan
@@ -26,7 +28,7 @@ __Cooking__
 - Add chilli powder, salt and garam masala. Toss and fry for 1-2 minutes
 - Serve with rice or roti
 
-### General Tips
+#### General Tips
 - Do not use frozen potatoes for a stir fry as they may get roasted too quickly
 - Keeping potatoes immersed in water will remove extra starch and prevent sticking
 - Add salt to potatoes _after_ cooking, not _before_
